@@ -1,0 +1,7 @@
+C:\Users\OptiCheck\Desktop\cSharp\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\OptiCheck\Desktop\cSharp\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\OptiCheck\Desktop\cSharp\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\OptiCheck\Desktop\cSharp\LINQ\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\cSharp\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\cSharp\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\OptiCheck\Desktop\cSharp\LINQ\LINQ\obj\Debug\LINQ.pdb

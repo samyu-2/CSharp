@@ -1,0 +1,7 @@
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\EventandDelegates\bin\Debug\EventandDelegates.exe.config
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\EventandDelegates\bin\Debug\EventandDelegates.exe
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\EventandDelegates\bin\Debug\EventandDelegates.pdb
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\EventandDelegates\obj\Debug\EventandDelegates.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\EventandDelegates\obj\Debug\EventandDelegates.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\EventandDelegates\obj\Debug\EventandDelegates.exe
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\EventandDelegates\obj\Debug\EventandDelegates.pdb

@@ -1,0 +1,15 @@
+C:\Users\OptiCheck\Desktop\c#\c-sharp\study\bin\Debug\net9.0\study.exe
+C:\Users\OptiCheck\Desktop\c#\c-sharp\study\bin\Debug\net9.0\study.deps.json
+C:\Users\OptiCheck\Desktop\c#\c-sharp\study\bin\Debug\net9.0\study.runtimeconfig.json
+C:\Users\OptiCheck\Desktop\c#\c-sharp\study\bin\Debug\net9.0\study.dll
+C:\Users\OptiCheck\Desktop\c#\c-sharp\study\bin\Debug\net9.0\study.pdb
+C:\Users\OptiCheck\Desktop\c#\c-sharp\study\obj\Debug\net9.0\study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OptiCheck\Desktop\c#\c-sharp\study\obj\Debug\net9.0\study.AssemblyInfoInputs.cache
+C:\Users\OptiCheck\Desktop\c#\c-sharp\study\obj\Debug\net9.0\study.AssemblyInfo.cs
+C:\Users\OptiCheck\Desktop\c#\c-sharp\study\obj\Debug\net9.0\study.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\c#\c-sharp\study\obj\Debug\net9.0\study.sourcelink.json
+C:\Users\OptiCheck\Desktop\c#\c-sharp\study\obj\Debug\net9.0\study.dll
+C:\Users\OptiCheck\Desktop\c#\c-sharp\study\obj\Debug\net9.0\refint\study.dll
+C:\Users\OptiCheck\Desktop\c#\c-sharp\study\obj\Debug\net9.0\study.pdb
+C:\Users\OptiCheck\Desktop\c#\c-sharp\study\obj\Debug\net9.0\study.genruntimeconfig.cache
+C:\Users\OptiCheck\Desktop\c#\c-sharp\study\obj\Debug\net9.0\ref\study.dll

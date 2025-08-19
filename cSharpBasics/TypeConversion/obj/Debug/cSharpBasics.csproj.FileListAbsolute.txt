@@ -1,0 +1,13 @@
+C:\Users\OptiCheck\source\repos\cSharpBasics\TypeConversion\bin\Debug\TypeConversion.exe.config
+C:\Users\OptiCheck\source\repos\cSharpBasics\TypeConversion\bin\Debug\TypeConversion.exe
+C:\Users\OptiCheck\source\repos\cSharpBasics\TypeConversion\bin\Debug\TypeConversion.pdb
+C:\Users\OptiCheck\source\repos\cSharpBasics\TypeConversion\obj\Debug\cSharpBasics.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\source\repos\cSharpBasics\TypeConversion\obj\Debug\TypeConversion.exe
+C:\Users\OptiCheck\source\repos\cSharpBasics\TypeConversion\obj\Debug\TypeConversion.pdb
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\TypeConversion\bin\Debug\TypeConversion.exe.config
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\TypeConversion\bin\Debug\TypeConversion.exe
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\TypeConversion\bin\Debug\TypeConversion.pdb
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\TypeConversion\obj\Debug\cSharpBasics.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\TypeConversion\obj\Debug\cSharpBasics.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\TypeConversion\obj\Debug\TypeConversion.exe
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\TypeConversion\obj\Debug\TypeConversion.pdb

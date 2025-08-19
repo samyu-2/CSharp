@@ -1,0 +1,7 @@
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\DoorEvent3\obj\Debug\DoorEvent3.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\DoorEvent3\obj\Debug\DoorEvent3.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\DoorEvent3\bin\Debug\DoorEvent3.exe.config
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\DoorEvent3\bin\Debug\DoorEvent3.exe
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\DoorEvent3\bin\Debug\DoorEvent3.pdb
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\DoorEvent3\obj\Debug\DoorEvent3.exe
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\DoorEvent3\obj\Debug\DoorEvent3.pdb

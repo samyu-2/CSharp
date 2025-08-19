@@ -1,0 +1,6 @@
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\DoorEvent2\obj\Debug\DoorEvent2.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\DoorEvent2\bin\Debug\DoorEvent2.exe.config
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\DoorEvent2\bin\Debug\DoorEvent2.exe
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\DoorEvent2\bin\Debug\DoorEvent2.pdb
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\DoorEvent2\obj\Debug\DoorEvent2.exe
+C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\DoorEvent2\obj\Debug\DoorEvent2.pdb

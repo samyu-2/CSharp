@@ -186,7 +186,10 @@ namespace LINQ
                     Console.WriteLine($"  {student.Name} - {student.Marks}");
                 }
             }
+
+
             
+
         }
     }
 }

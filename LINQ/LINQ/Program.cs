@@ -11,8 +11,8 @@ namespace LINQ
         static void Main(string[] args)
         {
             //LINQ.StudentDetails.Display();
-            //LINQ.TeacherDetails.Display();
-            LINQ.EmployeDetails.Display();
+            LINQ.TeacherDetails.Display();
+            //LINQ.EmployeDetails.Display();
             Console.ReadLine();
         }
     }

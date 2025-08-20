@@ -1,7 +1,0 @@
-C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\Snake\bin\Debug\Snake.exe.config
-C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\Snake\bin\Debug\Snake.exe
-C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\Snake\bin\Debug\Snake.pdb
-C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
-C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
-C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\Snake\obj\Debug\Snake.exe
-C:\Users\OptiCheck\Desktop\c#\c-sharp\cSharpBasics\Snake\obj\Debug\Snake.pdb

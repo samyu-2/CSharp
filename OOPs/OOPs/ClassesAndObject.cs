@@ -128,4 +128,49 @@ namespace OOPs
             employee.AnnualSalary();
         }
     }
+
+    class AsIs
+    {
+
+        public static void checkIs(object obj)
+        {
+            if (obj is string str)
+            {
+                Console.WriteLine($"Obj is string {str}");
+            }
+            else
+            {
+                Console.WriteLine($"Obj is not string, {obj}");
+            }
+        }
+
+        public static void checkAs(object obj)
+        {
+            string str = obj as string;
+            int? Int = obj as int?;
+            if(str != null)
+            {
+                Console.WriteLine($"Casted string: {str}");
+            }
+            else if(Int != null)
+            {
+                Console.WriteLine($"Casted integer: {Int}");
+            }
+            else
+            {
+                Console.WriteLine("Casting failed");
+            }
+        }
+
+        public static void Display()
+        {
+            object obj = "Hello World";
+            checkIs(obj);
+            checkAs(obj);
+
+            object obj1 = 100;
+            checkIs(obj1);
+            checkAs(obj1);
+        }
+    }
 }

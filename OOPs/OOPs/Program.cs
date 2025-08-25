@@ -14,7 +14,7 @@ namespace OOPs
             //CallStudent.Display();
             //CallEmployee.Display();
             //AsIs.Display();
-            CallPartial.Display();
+            //CallPartial.Display();
 
             //Inheritance.InheritanceDisplay();
             //Inheritance.AnimalDisplay();
@@ -38,6 +38,8 @@ namespace OOPs
 
             //OperatorOverloadding.ComplexDisplay();
             //OperatorOverloadding.ComplexEmploeeDisplay();
+
+            StructClass.Display();
             Console.ReadLine();
         }
     }

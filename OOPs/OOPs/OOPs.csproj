@@ -49,6 +49,7 @@
     <Compile Include="Overloading.cs" />
     <Compile Include="Overriding.cs" />
     <Compile Include="SealedAndStatic.cs" />
+    <Compile Include="StructClass.cs" />
     <Compile Include="TypesOfInheritance.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

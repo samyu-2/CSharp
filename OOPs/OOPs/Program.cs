@@ -53,7 +53,9 @@ namespace OOPs
             //ParameterAnonymous.Display();
             //PracticeAnonymous.Display();
 
-            LambdaExpression.Display();
+            //LambdaExpression.Display();
+
+            //ExceptionHandling.Display();
             Console.ReadLine();
         }
     }

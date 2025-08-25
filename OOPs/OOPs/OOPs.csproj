@@ -46,6 +46,7 @@
     <Compile Include="Anonymous.cs" />
     <Compile Include="ClassesAndObject.cs" />
     <Compile Include="EventAndDelegates.cs" />
+    <Compile Include="ExceptionHandling.cs" />
     <Compile Include="Indexers.cs" />
     <Compile Include="Inheritance.cs" />
     <Compile Include="LambdaExpression.cs" />

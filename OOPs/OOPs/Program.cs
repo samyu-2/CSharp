@@ -39,7 +39,9 @@ namespace OOPs
             //OperatorOverloadding.ComplexDisplay();
             //OperatorOverloadding.ComplexEmploeeDisplay();
 
-            StructClass.Display();
+            //StructClass.Display();
+
+            Indexers.Display();
             Console.ReadLine();
         }
     }

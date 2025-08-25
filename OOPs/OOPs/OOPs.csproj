@@ -49,6 +49,7 @@
     <Compile Include="OperatorOverloadding.cs" />
     <Compile Include="Overloading.cs" />
     <Compile Include="Overriding.cs" />
+    <Compile Include="RecordClass.cs" />
     <Compile Include="SealedAndStatic.cs" />
     <Compile Include="StructClass.cs" />
     <Compile Include="TypesOfInheritance.cs" />

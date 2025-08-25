@@ -41,7 +41,11 @@ namespace OOPs
 
             //StructClass.Display();
 
-            Indexers.Display();
+            //Indexers.Display();
+
+            //RecordClass.Display();
+
+
             Console.ReadLine();
         }
     }

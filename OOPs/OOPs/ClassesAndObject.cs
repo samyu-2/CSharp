@@ -173,4 +173,30 @@ namespace OOPs
             checkAs(obj1);
         }
     }
+
+    public partial class Partial
+    {
+        public string Name { get; set; }
+        public int Age { get; set; }
+    }
+
+    public partial class Partial
+    {
+        public void Display()
+        {
+            Console.WriteLine($"Name: {Name}");
+        }
+    }
+
+    class CallPartial
+    {
+        public static void Display()
+        {
+            Partial p = new Partial();
+            p.Name = "kailey";
+            p.Display();
+        }
+    }
+
+
 }

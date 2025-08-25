@@ -14,6 +14,7 @@ namespace OOPs
             //CallStudent.Display();
             //CallEmployee.Display();
             //AsIs.Display();
+            CallPartial.Display();
 
             //Inheritance.InheritanceDisplay();
             //Inheritance.AnimalDisplay();
@@ -21,7 +22,7 @@ namespace OOPs
 
             //TypesOfInheritance.typesOfInheritanceDisplay();
             //TypesOfInheritance.upcasting();
-            TypesOfInheritance.downCasting();
+            //TypesOfInheritance.downCasting();
 
             //Overloading.Display();
 

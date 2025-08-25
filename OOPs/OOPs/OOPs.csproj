@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstract.cs" />
+    <Compile Include="Anonymous.cs" />
     <Compile Include="ClassesAndObject.cs" />
     <Compile Include="EventAndDelegates.cs" />
     <Compile Include="Indexers.cs" />

@@ -48,6 +48,7 @@
     <Compile Include="EventAndDelegates.cs" />
     <Compile Include="Indexers.cs" />
     <Compile Include="Inheritance.cs" />
+    <Compile Include="LambdaExpression.cs" />
     <Compile Include="OperatorOverloadding.cs" />
     <Compile Include="Overloading.cs" />
     <Compile Include="Overriding.cs" />

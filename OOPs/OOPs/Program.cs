@@ -48,10 +48,12 @@ namespace OOPs
             //Delegate.Display();
             //Events.Display();
 
-            BasicAnonymous.Display();
-            EventAnonymous.Display();
-            ParameterAnonymous.Display();
-            PracticeAnonymous.Display();
+            //BasicAnonymous.Display();
+            //EventAnonymous.Display();
+            //ParameterAnonymous.Display();
+            //PracticeAnonymous.Display();
+
+            LambdaExpression.Display();
             Console.ReadLine();
         }
     }

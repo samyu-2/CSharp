@@ -57,6 +57,57 @@ namespace OOPs
         }
     }
 
+    //GETTER SETTER
+    public class Student2
+    {
+        private string name;
+        public string Name
+        {
+            get { return name; }
+            set
+            {
+                if (!string.IsNullOrEmpty(value))
+                {
+                    name = value;
+                }
+                else
+                    Console.WriteLine("Invalid Name");
+            }
+        }
+    }
+
+    //CONSTANT AND READONLY
+    class Example
+    {
+        public const double pi = 3.14;
+        public readonly string StudentName;
+
+        public Example(string name)
+        {
+            StudentName = name;
+        }
+        public void Show()
+        {
+            Console.WriteLine($"Pi value: {pi}");
+            Console.WriteLine($"Student Name: {StudentName}");
+        }
+    }
+
+    //DECONSTRUCT
+    class Demo
+    {
+        public Demo()
+        {
+            Console.WriteLine("Constructor: Object Created!");
+        }
+
+        ~Demo()
+        {
+            Console.WriteLine("Deconstructor: Object destroyed");
+        }
+
+    }
+
     class SealedAndStatic
     {
         public static void SealedDisplay()
@@ -80,6 +131,31 @@ namespace OOPs
             Library.LibraryName = "City Lib";
             Library.ShowLibraryInfo();
             library1.ShowInfo();
+        }
+
+        public static void GetSetDisplay()
+        {
+            Student2 s = new Student2();
+            s.Name = "Samyu";
+            Console.WriteLine(s.Name);
+            s.Name = "";
+            Console.WriteLine(s.Name);
+
+        }
+
+        public static void ConstantDisplay()
+        {
+            Example example1 = new Example("Samyu");
+            Example example2 = new Example("Mithu");
+
+            example1.Show();
+            example2.Show();
+        }
+
+        public static void DeconstDisplay()
+        {
+            Demo demo = new Demo();
+            Console.WriteLine("Main method ends");
         }
     }
 }

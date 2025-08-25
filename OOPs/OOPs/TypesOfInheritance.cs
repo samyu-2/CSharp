@@ -116,7 +116,38 @@ namespace OOPs
             ac.turnOff();
 
         }
+
+        public static void upcasting()
+        {
+            DogU d = new DogU();
+
+            // Upcasting (Dog → Animal)
+            AnimalU a = d;
+            a.Eat();  
+        }
+
+        public static void downCasting()
+        {
+            AnimalU a = new DogU();
+            a.Eat();
+
+            DogU d = (DogU)a;
+            d.Bark();
+
+            AnimalU a2 = new AnimalU();
+            //DogU d2 = (DogU)a2;   runtime error (invalid cast exception)
+        }
     }
 
+    //UPCASTING - Derived → Base (safe, implicit).
+    //DOWNCASTING - Base → Derived (unsafe if object not of derived type, must be explicit).
+    class AnimalU
+    {
+        public void Eat() => Console.WriteLine("Animal is eating");
+    }
 
+    class DogU : AnimalU
+    {
+        public void Bark() => Console.WriteLine("Dog is Barking");
+    }
 }

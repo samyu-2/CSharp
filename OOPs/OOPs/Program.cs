@@ -20,6 +20,8 @@ namespace OOPs
             //Inheritance.CarDisplay();
 
             //TypesOfInheritance.typesOfInheritanceDisplay();
+            //TypesOfInheritance.upcasting();
+            TypesOfInheritance.downCasting();
 
             //Overloading.Display();
 
@@ -27,8 +29,14 @@ namespace OOPs
 
             //Abstract.Display();
 
-            SealedAndStatic.StaticDisplay();
+            //SealedAndStatic.SealedDisplay();
+            //SealedAndStatic.StaticDisplay();
+            //SealedAndStatic.GetSetDisplay();
+            //SealedAndStatic.ConstantDisplay();
+            //SealedAndStatic.DeconstDisplay();
 
+            //OperatorOverloadding.ComplexDisplay();
+            //OperatorOverloadding.ComplexEmploeeDisplay();
             Console.ReadLine();
         }
     }

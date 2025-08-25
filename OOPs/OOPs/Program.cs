@@ -45,6 +45,9 @@ namespace OOPs
 
             //RecordClass.Display();
 
+            //Delegate.Display();
+            //Events.Display();
+
 
             Console.ReadLine();
         }
